@@ -1,4 +1,7 @@
 ### Hi there 👋
+Welcome to my GitHub profile! Here you will find my public repositories with various Bootcamp and personal projects. 
+Much of my recent works has been various bootcamp projects and challenges. I do wish to fill my repository with more personal projects in the near future!
+-Thanks for stopping by!
 
 <!--
 **Anitinky13/Anitinky13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
