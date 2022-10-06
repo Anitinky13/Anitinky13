@@ -5,7 +5,7 @@ I really enjoy developing new applications and website. I also enjoy wireframing
 Much of my recent works has been various bootcamp projects and challenges.I am currently working on a business website.  I do wish to fill my repository with more personal projects in the near future!
 -Thanks for stopping by!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,md,bootstrap,js,jquery,nodejs,express,jest,mongodb,mysql,codepen,git,github,gitlab,heroku,ai,ps,bash,powershell,raspberrypi,regex,vscode,wordpress)](https://skillicons.dev)</span>
+[![My Skills](https://skillicons.dev/icons?i=html,css,md,bootstrap,js,jquery,nodejs,express,jest,mongodb,mysql,codepen,git,github,gitlab,heroku,ai,ps,bash,powershell,regex,vscode,wordpress)](https://skillicons.dev)</span>
 
 - 🔭 I’m currently working on MERN project 
 - 🌱 I’m currently learning React/Python 
